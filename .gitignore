@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.tox/
+build/
+*.egg-info/
+.DS_Store
+
+dev/
+package-src.zip
